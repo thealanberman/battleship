@@ -1,12 +1,7 @@
 #!/usr/bin/env python
-# encoding=utf8
 from __future__ import print_function
 import numpy as np
 import string
-
-import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
 
 # Array KEY
 # 0 = nothing
